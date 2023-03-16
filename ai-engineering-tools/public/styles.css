@@ -1,0 +1,9 @@
+.button-list-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item-to-position {
+  margin-left: auto;
+}
